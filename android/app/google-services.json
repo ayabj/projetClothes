@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "221348451414",
+    "project_id": "clothesapp-7743b",
+    "storage_bucket": "clothesapp-7743b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:221348451414:android:f8549e2f2fddf1563f57f7",
+        "android_client_info": {
+          "package_name": "com.example.clothes_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZpxIJvNUJaiZ1Wxtizlnk7asHR3_cUDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
